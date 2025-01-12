@@ -1,3 +1,4 @@
+# phone number example
 # Given an integer representing a 10-digit phone number, output the area code, prefix, and line number using the format (800) 555-1212.
 
 # Ex: If the input is: 8005551212, then the output is: (800) 555-1212
